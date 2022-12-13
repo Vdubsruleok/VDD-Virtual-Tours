@@ -1418,8 +1418,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "27-stepanes-office",
-      "name": "Stepane's Office",
+      "id": "27-stephanes-office",
+      "name": "Stephane's Office",
       "levels": [
         {
           "tileSize": 256,
