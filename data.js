@@ -1358,7 +1358,7 @@ var APP_DATA = {
           "yaw": 1.3113587497169785,
           "pitch": 0.1959927865064124,
           "rotation": 4.71238898038469,
-          "target": "27-stepanes-office"
+          "target": "27-stephanes-office"
         },
         {
           "yaw": 1.7368474098696094,
@@ -1418,8 +1418,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "27-stepanes-office",
-      "name": "Stepane's Office",
+      "id": "27-stephanes-office",
+      "name": "Stephane's Office",
       "levels": [
         {
           "tileSize": 256,
